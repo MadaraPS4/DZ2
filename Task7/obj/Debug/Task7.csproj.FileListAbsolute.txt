@@ -1,0 +1,5 @@
+c:\users\зейтынб\documents\visual studio 2017\Projects\ConsoleApp1\Task7\bin\Debug\Task7.exe.config
+c:\users\зейтынб\documents\visual studio 2017\Projects\ConsoleApp1\Task7\bin\Debug\Task7.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\ConsoleApp1\Task7\bin\Debug\Task7.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\ConsoleApp1\Task7\obj\Debug\Task7.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\ConsoleApp1\Task7\obj\Debug\Task7.pdb
